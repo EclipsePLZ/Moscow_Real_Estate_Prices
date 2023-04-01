@@ -1,4 +1,4 @@
-# Moscow_Real_Estate_Prices
+# Moscow Real Estate Prices
 ## Processing data on real estate in Moscow.
 Link to kaggle (dataset): https://www.kaggle.com/datasets/mrdaniilak/russia-real-estate-2021
 
